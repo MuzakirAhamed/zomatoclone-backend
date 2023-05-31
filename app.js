@@ -7,7 +7,7 @@ const app = express()
 const port = process.env.PORT || 8080
 
 const corsOptions ={
-    origin:'https://zomatoclone-fullstack.netlify.app/', 
+    origin:'https://zomatoclone-fullstack.netlify.app', 
     credentials:true,            //access-control-allow-credentials:true
     optionSuccessStatus:200
 }
