@@ -3,7 +3,7 @@ Live App Demo Link: [Zomatoclone](https://zomatoclone-fullstack.netlify.app/)<br
 <h1>Pages Developed</h1>
 <ol>
   <li>Home page</li>
-![Home-page](https://github.com/MuzakirAhamed/zomatoclone-backend/assets/126646808/d4fad490-561c-498e-bdbe-934a8c504abf)
+<img src="Project Images/Home-page.png"/>
   </li>
   <li>Filter page</li>
   ![Filter-page](https://github.com/MuzakirAhamed/zomatoclone-backend/assets/126646808/155c8127-a7d2-4745-a8db-09cc1d7c4880)
