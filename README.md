@@ -1,15 +1,23 @@
 ﻿# zomatoclone web application
 Live App Demo Link: [Zomatoclone](https://zomatoclone-fullstack.netlify.app/)<br>
 <h1>Pages Developed</h1>
-<ol>
-  <li>Home page</li>
-<img src="Project Images/Home-page.png"/>
-  </li>
-  <li>Filter page</li>
-  ![Filter-page](https://github.com/MuzakirAhamed/zomatoclone-backend/assets/126646808/155c8127-a7d2-4745-a8db-09cc1d7c4880)
-  <li>Details page</li>
-  ![Details-page](https://github.com/MuzakirAhamed/zomatoclone-backend/assets/126646808/dc33236e-9f0c-4808-8594-77c18e5a3876)
-<li>Order checkout page</li>
-![checkout](https://github.com/MuzakirAhamed/zomatoclone-backend/assets/126646808/0d2a299d-8227-4117-9575-d99fde34fe42)
 
-  </ol>
+  <h1>Home page</h1>
+<img src="Project Images/Home-page.png"/>
+  <h1>Filter page</h1>
+ <img src="Project Images/Filter-page.png"/>
+  <h1>Details page</h1>
+  <img src="Project Images/Details-page.png"/>
+<h1>Order checkout page</h1>
+<img src="Project Images/checkout.png"/>
+## Libraries Used:
+
+| Library Name | Description |
+| ------------ | ----------- |
+| React Js     | Frontend Framework |
+| Express Js   | Backend Framework  |
+| Mongoose     | DataBase Framework  |
+| React-responsive-carousel  | For carousel's in the project |
+| React-tabs  | For tabs in the project |
+| React Router v6  | Routing library  |
+| query string  | To parse the string value in the URL |
